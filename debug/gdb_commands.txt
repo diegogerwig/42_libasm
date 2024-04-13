@@ -1,0 +1,8 @@
+file EXEC
+layout asm
+
+# break _start
+# set disassembly-flavor intel   # set INTEL syntax, in gdb AT&T syntax is by defualt
+# disas _start    
+# run
+# stepi

@@ -1,0 +1,16 @@
+/obj
+*/obj
+/lib
+*/lib/libasm.a
+*/test_libasm
+
+*.dSYM
+
+*.o
+*.a
+*.sw*
+
+_file_*.*
+
+.DS_Store
+.vscode
